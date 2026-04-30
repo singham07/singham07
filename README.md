@@ -1,8 +1,18 @@
-# Hi, I'm Amit Kumar Kar 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI/ML+Engineer;Full+Stack+Developer;Building+AI+Apps+with+LLMs;Open+to+Internships&center=true&width=500&height=50">
+</p>
 
-🚀 AI/ML Engineer | Full-Stack Developer  
-💡 Building real-world AI applications using NLP, LLMs & scalable systems  
+<h1 align="center">Hi, I'm Amit Kumar Kar 👋</h1>
+
+<p align="center">
+🚀 AI/ML Engineer | Full-Stack Developer <br>
+💡 Building real-world AI applications using NLP, LLMs & scalable systems <br>
 🎯 Open to AI/ML & Backend Internship Opportunities  
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=singham07&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
 ---
 
@@ -14,10 +24,23 @@
 
 ---
 
+## 🏅 Tech Badges
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+---
+
 ## 🛠 Tech Stack
 
-**Languages:** Python, JavaScript, Java
-**Frontend:** React.js, HTML, CSS 
+**Languages:** Python, JavaScript, Java  
+**Frontend:** React.js, HTML, CSS  
 **Backend:** Node.js, Express.js  
 **AI/ML:** Machine Learning, NLP, LLMs, Prompt Engineering, Sentiment Analysis  
 **Tools & Cloud:** Azure, Git, MongoDB  
@@ -61,5 +84,23 @@ Tech: NLP, Machine Learning
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=singham07&show_icons=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singham07&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=singham07&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singham07&layout=compact" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=singham07&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/singham07/singham07/blob/output/github-contribution-grid-snake.svg" />
+</p>
