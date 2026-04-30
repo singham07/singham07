@@ -99,8 +99,15 @@ Tech: NLP, Machine Learning
 
 ---
 
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/singham07/singham07/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/singham07/singham07/output/github-contribution-grid-snake.svg" />
 </p>
+
+---
+
+## 🌟 Keep Growing 🚀
+✨ Consistency beats intensity — building, learning, improving every day.
