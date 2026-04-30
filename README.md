@@ -5,7 +5,7 @@
 🚀 Building AI-powered applications using NLP & LLMs  
 
 ## 🛠 Tech Stack
-- Python, JavaScript
+- Python, Java, JavaScript
 - React.js, Node.js
 - Machine Learning, NLP
 - Prompt Engineering, LLM APIs
@@ -17,8 +17,11 @@
 
 ## 🏆 Achievements
 - KVS National Gold Medalist (Volleyball U-19)
-- Gold Medalist – KVS Youth Parliament
-- SkillCred & Agratas Edutech AI&ML Intern
+- Gold Medalist – KVS Youth Parliament (Leadership & Public Speaking)
+- University Basketball Player | Winner of 2 IIT-level & 5+ college tournaments
+- AI/ML Intern – Agratas Edutech
 
 ## 📫 Connect with me
 - GitHub: https://github.com/singham07
+- Linkedin: www.linkedin.com/in/amitkumarkar07
+- LeetCode: https://leetcode.com/u/singham_7/
