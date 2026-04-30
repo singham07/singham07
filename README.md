@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Amit Kumar Kar 👋
 
-<!--
-**singham07/singham07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) Student  
+🤖 AI/ML & Full Stack Developer  
+🚀 Building AI-powered applications using NLP & LLMs  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Python, JavaScript
+- React.js, Node.js
+- Machine Learning, NLP
+- Prompt Engineering, LLM APIs
+- Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- AI CX Analytics Platform (Sentiment Analysis, NLP)
+- Easy Notes App (React + Express + MongoDB + AI)
+
+## 🏆 Achievements
+- KVS National Gold Medalist (Volleyball U-19)
+- Gold Medalist – KVS Youth Parliament
+
+## 📫 Connect with me
+- GitHub: https://github.com/singham07
