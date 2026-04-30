@@ -25,3 +25,6 @@
 - GitHub: https://github.com/singham07
 - Linkedin: www.linkedin.com/in/amitkumarkar07
 - LeetCode: https://leetcode.com/u/singham_7/
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=singham07&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singham07&layout=compact)
