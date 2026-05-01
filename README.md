@@ -34,6 +34,9 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-00BFFF?style=for-the-badge&logo=internetofthings&logoColor=white)
+![AI](https://img.shields.io/badge/AI-5A2D81?style=for-the-badge&logo=openai&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
 
