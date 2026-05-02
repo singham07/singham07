@@ -60,6 +60,10 @@ Tech: React, Node.js, MongoDB, GROQ
 AI-based system for customer feedback analysis & sentiment detection  
 Tech: NLP, Machine Learning  
 
+🔹 **Smart Motion Detection Shoe (IoT)**  
+Wearable IoT system that monitors real-time motion and detects inactivity using sensor data and cloud-based alert logic  
+Tech: ESP32, ADXL345, ThingWorx, Embedded C, I2C, REST API
+
 ---
 
 ## 🏆 Achievements
