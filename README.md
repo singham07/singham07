@@ -118,4 +118,4 @@ Tech: ESP32, ADXL345, ThingWorx, Embedded C, I2C, REST API
 ---
 
 ## 🌟 Keep Growing 🚀
-✨ Consistency beats intensity — building, learning, improving every day.
+✨ Consistency beats intensity — building, learning, improving every day !
