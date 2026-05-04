@@ -47,7 +47,7 @@
 **Backend:** Node.js, Express.js  
 **AI/ML:** Machine Learning, NLP, LLMs, Prompt Engineering, Sentiment Analysis  
 **IoT & Embedded:** Arduino Uno (R4), ESP32, ADXL345, I2C Protocol, Sensor Integration, Real-time Data Processing  
-**Tools & Cloud:** Azure, Git, MongoDB, ThingWorx, REST API.
+**Tools & Cloud:** Azure, Git, MongoDB, ThingWorx, REST API
 
 ---
 
