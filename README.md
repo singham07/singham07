@@ -6,7 +6,7 @@
 
 <p align="center">
 🚀 AI/ML Engineer | Full-Stack Developer <br>
-💡 Building real-world AI applications using NLP, LLMs & scalable systems <br>
+💡 Building real-world AI applications using NLP, LLMs & Scalable systems <br>
 🎯 Open to AI/ML & Backend Internship Opportunities  
 </p>
 
