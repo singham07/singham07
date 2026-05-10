@@ -73,6 +73,7 @@ Tech: ESP32, ADXL345, ThingWorx, Embedded C, I2C, REST API
 🥇 Gold Medalist – KVS Youth Parliament (Leadership & Public Speaking)  
 🏀 University Basketball Player | Winner of 2 IIT-level & 5+ tournaments  
 🤖 AI/ML Intern – Agratas Edutech  
+🤖 Gen AI Micro Intership - SkillCred
 
 ---
 
